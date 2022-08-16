@@ -1,2 +1,2 @@
-# Science-Machine-Learning
-Repository  contains a number of scientific Machine Learning Projects
+# Machine-Learning_Healthcare_Science
+Repository  contains a number of Healthcare and scientific Machine Learning Projects
